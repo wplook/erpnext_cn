@@ -19,10 +19,10 @@ V14：理论兼容，未测试
 
 首先，获取app
 ```sh
-$ bench get-app https://github.com/digitwise/erpnext_china.git
+$ bench get-app https://github.com/wplook/erpnext_cn.git
 ```
 
 然后，安装erpnext和erpnext_china
 ```sh
-$ bench --site demo.com install-app erpnext erpnext_china
+$ bench --site demo.com install-app erpnext erpnext_cn
 ```
