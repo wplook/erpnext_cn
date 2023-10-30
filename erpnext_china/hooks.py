@@ -119,7 +119,7 @@ app_license = "mit"
 
 doc_events = {
 	"*": {
-        "before_validate": "ebclocal.utils.data.money_in_words_zh_hooks"
+        "before_validate": "erpnext_china.utils.data.money_in_words_zh_hooks"
 #       "on_update": "method",
 #       "on_cancel": "method",
 #       "on_trash": "method"
