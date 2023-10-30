@@ -1,3 +1,5 @@
+##此项目原作者在此https://github.com/saoxia/erpnext_china，本人克隆此项目只是添加了自己需要的功能，喜欢的朋友可以原作者来个start
+
 ## ERPNext China Location（ERPNext中国本地化）
 注意：由于一些单据实现方式原因，尽量在全新的erpnext之上安装测试。实现方式将在之后一段时间调整优化
 
