@@ -117,6 +117,15 @@ app_license = "mit"
 # ---------------
 # Hook on document methods and events
 
+doc_events = {
+	"*": {
+        "before_validate": "ebclocal.utils.data.money_in_words_zh_hooks"
+#       "on_update": "method",
+#       "on_cancel": "method",
+#       "on_trash": "method"
+	}
+}
+
 # doc_events = {
 #	"*": {
 #		"on_update": "method",
